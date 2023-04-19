@@ -1,1 +1,1 @@
-Hello guys, this is Travelling website, I created website with Bootstrap
+This is Travelling website, I created website with Bootstrap
